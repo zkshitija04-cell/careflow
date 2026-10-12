@@ -1,0 +1,8 @@
+activity,next_activity,patients,avg_wait,longest
+X-Ray,Doctor Consultation,323,38.7,60.0
+Triage,Doctor Consultation,177,38.1,60.0
+Registration,X-Ray,20,24.8,38.0
+Triage,X-Ray,480,24.8,40.0
+Doctor Consultation,Discharge,500,18.7,30.0
+Registration,Triage,480,12.5,20.0
+X-Ray,Triage,177,12.4,20.0
