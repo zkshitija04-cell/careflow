@@ -1,0 +1,501 @@
+case_id,status,reason,path
+P0001,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0002,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0003,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0004,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0005,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0006,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0007,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0008,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0009,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0010,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0011,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0012,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0013,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0014,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0015,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0016,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0017,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0018,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0019,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0020,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0021,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0022,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0023,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0024,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0025,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0026,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0027,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0028,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0029,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0030,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0031,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0032,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0033,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0034,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0035,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0036,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0037,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0038,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0039,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0040,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0041,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0042,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0043,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0044,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0045,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0046,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0047,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0048,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0049,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0050,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0051,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0052,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0053,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0054,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0055,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0056,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0057,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0058,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0059,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0060,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0061,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0062,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0063,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0064,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0065,Non-compliant,Skipped Triage,Registration -> X-Ray -> Doctor Consultation -> Discharge
+P0066,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0067,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0068,Non-compliant,Skipped Triage,Registration -> X-Ray -> Doctor Consultation -> Discharge
+P0069,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0070,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0071,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0072,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0073,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0074,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0075,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0076,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0077,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0078,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0079,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0080,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0081,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0082,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0083,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0084,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0085,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0086,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0087,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0088,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0089,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0090,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0091,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0092,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0093,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0094,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0095,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0096,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0097,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0098,Non-compliant,Skipped Triage,Registration -> X-Ray -> Doctor Consultation -> Discharge
+P0099,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0100,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0101,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0102,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0103,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0104,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0105,Non-compliant,Skipped Triage,Registration -> X-Ray -> Doctor Consultation -> Discharge
+P0106,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0107,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0108,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0109,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0110,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0111,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0112,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0113,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0114,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0115,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0116,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0117,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0118,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0119,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0120,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0121,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0122,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0123,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0124,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0125,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0126,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0127,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0128,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0129,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0130,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0131,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0132,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0133,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0134,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0135,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0136,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0137,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0138,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0139,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0140,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0141,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0142,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0143,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0144,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0145,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0146,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0147,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0148,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0149,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0150,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0151,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0152,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0153,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0154,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0155,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0156,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0157,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0158,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0159,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0160,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0161,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0162,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0163,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0164,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0165,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0166,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0167,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0168,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0169,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0170,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0171,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0172,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0173,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0174,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0175,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0176,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0177,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0178,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0179,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0180,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0181,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0182,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0183,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0184,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0185,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0186,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0187,Non-compliant,Skipped Triage,Registration -> X-Ray -> Doctor Consultation -> Discharge
+P0188,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0189,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0190,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0191,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0192,Non-compliant,Skipped Triage,Registration -> X-Ray -> Doctor Consultation -> Discharge
+P0193,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0194,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0195,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0196,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0197,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0198,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0199,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0200,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0201,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0202,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0203,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0204,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0205,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0206,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0207,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0208,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0209,Non-compliant,Skipped Triage,Registration -> X-Ray -> Doctor Consultation -> Discharge
+P0210,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0211,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0212,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0213,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0214,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0215,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0216,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0217,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0218,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0219,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0220,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0221,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0222,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0223,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0224,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0225,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0226,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0227,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0228,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0229,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0230,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0231,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0232,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0233,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0234,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0235,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0236,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0237,Non-compliant,Skipped Triage,Registration -> X-Ray -> Doctor Consultation -> Discharge
+P0238,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0239,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0240,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0241,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0242,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0243,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0244,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0245,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0246,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0247,Non-compliant,Skipped Triage,Registration -> X-Ray -> Doctor Consultation -> Discharge
+P0248,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0249,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0250,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0251,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0252,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0253,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0254,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0255,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0256,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0257,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0258,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0259,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0260,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0261,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0262,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0263,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0264,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0265,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0266,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0267,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0268,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0269,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0270,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0271,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0272,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0273,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0274,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0275,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0276,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0277,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0278,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0279,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0280,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0281,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0282,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0283,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0284,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0285,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0286,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0287,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0288,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0289,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0290,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0291,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0292,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0293,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0294,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0295,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0296,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0297,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0298,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0299,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0300,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0301,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0302,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0303,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0304,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0305,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0306,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0307,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0308,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0309,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0310,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0311,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0312,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0313,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0314,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0315,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0316,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0317,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0318,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0319,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0320,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0321,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0322,Non-compliant,Skipped Triage,Registration -> X-Ray -> Doctor Consultation -> Discharge
+P0323,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0324,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0325,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0326,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0327,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0328,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0329,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0330,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0331,Non-compliant,Skipped Triage,Registration -> X-Ray -> Doctor Consultation -> Discharge
+P0332,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0333,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0334,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0335,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0336,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0337,Non-compliant,Skipped Triage,Registration -> X-Ray -> Doctor Consultation -> Discharge
+P0338,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0339,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0340,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0341,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0342,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0343,Non-compliant,Skipped Triage,Registration -> X-Ray -> Doctor Consultation -> Discharge
+P0344,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0345,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0346,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0347,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0348,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0349,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0350,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0351,Non-compliant,Skipped Triage,Registration -> X-Ray -> Doctor Consultation -> Discharge
+P0352,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0353,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0354,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0355,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0356,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0357,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0358,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0359,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0360,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0361,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0362,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0363,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0364,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0365,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0366,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0367,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0368,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0369,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0370,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0371,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0372,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0373,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0374,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0375,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0376,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0377,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0378,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0379,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0380,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0381,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0382,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0383,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0384,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0385,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0386,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0387,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0388,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0389,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0390,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0391,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0392,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0393,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0394,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0395,Non-compliant,Skipped Triage,Registration -> X-Ray -> Doctor Consultation -> Discharge
+P0396,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0397,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0398,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0399,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0400,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0401,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0402,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0403,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0404,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0405,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0406,Non-compliant,Skipped Triage,Registration -> X-Ray -> Doctor Consultation -> Discharge
+P0407,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0408,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0409,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0410,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0411,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0412,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0413,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0414,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0415,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0416,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0417,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0418,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0419,Non-compliant,Skipped Triage,Registration -> X-Ray -> Doctor Consultation -> Discharge
+P0420,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0421,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0422,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0423,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0424,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0425,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0426,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0427,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0428,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0429,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0430,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0431,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0432,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0433,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0434,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0435,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0436,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0437,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0438,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0439,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0440,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0441,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0442,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0443,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0444,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0445,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0446,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0447,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0448,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0449,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0450,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0451,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0452,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0453,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0454,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0455,Non-compliant,Skipped Triage,Registration -> X-Ray -> Doctor Consultation -> Discharge
+P0456,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0457,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0458,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0459,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0460,Non-compliant,Skipped Triage,Registration -> X-Ray -> Doctor Consultation -> Discharge
+P0461,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0462,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0463,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0464,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0465,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0466,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0467,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0468,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0469,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0470,Non-compliant,Skipped Triage,Registration -> X-Ray -> Doctor Consultation -> Discharge
+P0471,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0472,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0473,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0474,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0475,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0476,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0477,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0478,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0479,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0480,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0481,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0482,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0483,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0484,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0485,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0486,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0487,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0488,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0489,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0490,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0491,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0492,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0493,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0494,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0495,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0496,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0497,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
+P0498,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0499,Compliant,,Registration -> Triage -> X-Ray -> Doctor Consultation -> Discharge
+P0500,Non-compliant,Repeated Triage,Registration -> Triage -> X-Ray -> Triage -> Doctor Consultation -> Discharge
