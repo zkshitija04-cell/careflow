@@ -4,7 +4,9 @@ Hospital dashboards show the average ER wait time, but not the real sequence of 
 
 ## The problem found
 
-In the simulated hospital data, **177 of 500 patients (about 35%)** were sent back to Triage after their X-Ray. The loop-back is discovered from the event log by process mining, not hard-coded into the analysis.
+- Patients sent back to Triage stayed **107.4 minutes** on average, versus **93.5 minutes** for patients who were not, about **13.9 minutes (15%) longer**.
+- Conformance check: **303 of 500 patients (60.6%)** followed the correct path. **197 (39.4%)** did not: 177 repeated Triage and 20 skipped it.
+- Business action this points to: fix the cause of the X-Ray-to-Triage rework (for example, a missing intake form) to reduce stay time for about 1 in 3 patients.
 
 ## Architecture
 
